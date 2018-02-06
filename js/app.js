@@ -1,2 +1,2 @@
-const box = document.querySelector('.box');
-box.style.display = 'none';
+//const box = document.querySelector('.box');
+//box.style.display = 'none';
